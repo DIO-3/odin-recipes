@@ -1,6 +1,9 @@
 this is me 
 this is how you push chnages to git hub 
-<!-- leonardoantonio@Leonardos-Air odin-recipes % git add "README.md"
+<!-- New easy way to push changes -->
+    <!-- https://www.youtube.com/watch?v=B8RSMBSzFuA -->
+<!-- 
+leonardoantonio@Leonardos-Air odin-recipes % git add "README.md"
 leonardoantonio@Leonardos-Air odin-recipes % git status 
     On branch main
 
