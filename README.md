@@ -1,5 +1,5 @@
 this is me 
-this is how you push chnages to git hub 
+this is how you push changes to git hub 
 <!-- New easy way to push changes -->
     <!-- https://www.youtube.com/watch?v=B8RSMBSzFuA -->
 <!-- 
